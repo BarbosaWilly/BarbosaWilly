@@ -17,7 +17,7 @@ I'm a Software Engineer with over **9 years of experience** developing enterpris
 
 Throughout my career, I've worked on high-scale platforms supporting healthcare, public services, finance, and cloud consulting projects. My passion lies in designing reliable systems that balance performance, maintainability, and business value.
 
-- 💼 8+ years of professional experience
+- 💼 9+ years of professional experience
 - 🏗 Specialized in .NET and Software Architecture
 - ☁ Azure & AWS Cloud Solutions
 - 🔄 APIs, Integrations & Distributed Systems
