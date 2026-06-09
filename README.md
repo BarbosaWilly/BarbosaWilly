@@ -98,7 +98,6 @@ Throughout my career, I've worked on high-scale platforms supporting healthcare,
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/willy-barbosa-221232100/
-- GitHub: https://github.com/BarbosaWilly
 
 ---
 
